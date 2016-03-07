@@ -1,6 +1,4 @@
-# node-php-server [![Build Status](https://travis-ci.org/jaceju/node-php-server.svg?branch=master)](https://travis-ci.org/jaceju/node-php-server)
-
-**Deprecated!!** Please use [gulp-connect-php](https://github.com/micahblu/gulp-connect-php).
+# node-php-server [![Build Status](https://travis-ci.org/cbforks/node-php-server-fork.svg?branch=fork-master)](https://travis-ci.org/cbforks/node-php-server-fork)
 
 Create a built-in PHP server for PHP framework in node.js script.
 

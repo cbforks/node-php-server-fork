@@ -1,6 +1,6 @@
 {
-  "name": "node-php-server",
-  "version": "0.1.2",
+  "name": "php-server",
+  "version": "0.1.3-cbfork",
   "dependencies": {
     "open": "*"
   },
@@ -11,7 +11,7 @@
     "url": "https://github.com/jaceju"
   },
   "main": "./lib/index.js",
-  "repository": "https://github.com/jaceju/node-php-server.git",
+  "repository": "https://github.com/cbforks/node-php-server-fork.git",
   "devDependencies": {
     "gulp": "*",
     "gulp-jshint": "*",
@@ -23,10 +23,5 @@
     "must": "*",
     "sleep": "^1.1.8"
   },
-  "licenses": [
-    {
-      "type": "MIT",
-      "url": "https://github.com/brentertz/scapegoat/blob/master/LICENSE-MIT"
-    }
-  ]
+  "license": "MIT"
 }
